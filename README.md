@@ -11,6 +11,9 @@ Features
 https://youtu.be/RxdatNzI-IQ
 <img width="522" height="540" alt="nametags" src="https://github.com/user-attachments/assets/da2d6095-5745-49a1-b4f4-911614d9b37c" />
 
+## Notes
+GWToolbox 8.33 is currently bugged, there is a planned update that fixes nametags overriding colors
+
 ## Watch
 https://youtu.be/RxdatNzI-IQ
 
