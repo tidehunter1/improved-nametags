@@ -1,33 +1,21 @@
-# Nameplates for GWToolbox
+# Improved Nametags for GWToolbox
 
-Nameplates is a GWToolbox plugin for GuildWars1 that replaces default nametags in explorable areas with fully customizable health bars(similar to WoW's nameplates), and recolors native nametags everywhere in the game. It supports priority and profession based coloring, boss highlighting, status effect indicators, distance based fading, and smooth stacking, giving you a clearer and more configurable view of enemies and allies at a glance.
+Improved Nametags is a GWToolbox plugin for GuildWars1 that augments the nametags with customizable coloring(priority/boss/ally/foe/profession/quest), it can show a foes/allys healthbar(similar to WoW's nameplates) and has a bonus feature that attempts to save you from death while wearing your Dhuum's Covenant badge.
 
-Explorable Areas (custom HP bars)
-* Enemy, friendly, and summoned ally bars, each toggleable
-* Distance based alpha fade with adjustable thresholds and opacity tiers
-* Combat status text coloring for enemies in combat or moving nearby
-* Priority coloring via exact name match and whole word match, each with its own color
-* Color by boss for agents with the boss glow
-* Enemy nameplates colorable by profession
-* NPC and ally visibility gated by HP threshold
-* Adjustable max range, bar width and height, border thickness and colors
-* Status effect triangles for enchanted, hexed, and conditioned states
-* Click to target directly on bars
-* Smart stacking so overlapping bars don't collide if possible
+Features
+* Color ally/foes by:
+* Priority (any color)
+* Boss (any color)
+* Profession (all 10 professions are configurable)Boss
+* Bonus: "Escape to Embark Beach", attempts to save you from death when you meet a certain health threshold by sending you to Embark Beach
 
-All Areas (native nametag recoloring)
-* Quest giver nametags recolored
-* Ally nametags colored by profession
-* Shared profession color palette covering all 10 professions, individually toggleable and colorable
-<img width="1328" height="751" alt="npgwtbplugin" src="https://github.com/user-attachments/assets/20ce919e-7481-44d2-9bd2-135f64d74b10" />
+<img width="1328" height="751" alt="nametags" src="https://github.com/user-attachments/assets/20ce919e-7481-44d2-9bd2-135f64d74b10" />
 
 ## Windows Installation
 * 1 - Navigate to C:\Users\User\Documents\GWToolboxpp\MACHINE-NAME\plugins
-* 2 - Place Nameplates.dll into the \plugins folder
+* 2 - Place ImprovedNametags.dll into the \plugins folder
 * 3 - Load GWToolbox as usual
-* 4 - Navigate to Plugins > Nameplates > Load
+* 4 - Navigate to Plugins > ImprovedNametags > Load
 
 ## Recommended gMods
-* Note: Load in order below for best results
-* [Overhead Health Bar Remover UI by Pyron Sy](https://www.mediafire.com/?bxcmj0mwin4)
 * [MinimalusUI 3.2 by gkoogz](https://github.com/gkoogz/MinimalusUIMod/releases)
