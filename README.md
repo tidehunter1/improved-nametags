@@ -9,7 +9,7 @@ Features
 * Profession (all 10 professions are configurable)Boss
 * Bonus: "Escape to Embark Beach", attempts to save you from death when you meet a certain health threshold by sending you to Embark Beach
 
-<img width="1328" height="751" alt="nametags" src="https://github.com/user-attachments/assets/20ce919e-7481-44d2-9bd2-135f64d74b10" />
+<img width="522" height="540" alt="nametags" src="https://github.com/user-attachments/assets/da2d6095-5745-49a1-b4f4-911614d9b37c" />
 
 ## Windows Installation
 * 1 - Navigate to C:\Users\User\Documents\GWToolboxpp\MACHINE-NAME\plugins
