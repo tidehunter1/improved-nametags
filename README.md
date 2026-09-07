@@ -4,7 +4,7 @@ Improved Nametags is a GWToolbox plugin for GuildWars1 that augments the nametag
 
 Features
 * Color ally/foes by:
-* Priority (any color)
+* Priority (filter by name to: color and/or hide other agents)
 * Boss (any color)
 * Profession (all 10 professions are configurable)Boss
 * Bonus: "Escape to Embark Beach", attempts to save you from death when you meet a certain health threshold by sending you to Embark Beach
@@ -12,7 +12,7 @@ https://youtu.be/RxdatNzI-IQ
 <img width="522" height="540" alt="nametags" src="https://github.com/user-attachments/assets/da2d6095-5745-49a1-b4f4-911614d9b37c" />
 
 ## Notes
-GWToolbox 8.33 is currently bugged, there is a planned update that fixes nametags overriding colors
+GWToolbox 8.33 is currently bugged, there is a planned update that fixes nametags overriding colors, until then color players by profession has slight issues 
 
 ## Watch
 https://youtu.be/RxdatNzI-IQ
