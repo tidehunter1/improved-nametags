@@ -8,7 +8,7 @@ Features
 * Boss (any color)
 * Profession (all 10 professions are configurable)
 * Bonus: "Escape to Embark Beach", attempts to save you from death when you meet a certain health threshold by sending you to Embark Beach
-https://youtu.be/RxdatNzI-IQ
+
 <img width="456" height="542" alt="improvednametags" src="https://github.com/user-attachments/assets/576ffd4b-2dab-48c3-abad-ad74ac8d3ab7" />
 
 ## Notes
