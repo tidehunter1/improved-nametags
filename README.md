@@ -14,10 +14,10 @@ Features
 ## Notes
 GWToolbox 8.33 is currently bugged, there is a planned update that fixes nametags overriding colors, until then color players by profession has slight issues 
 
-## Watch
+## Watch demo
 https://youtu.be/RxdatNzI-IQ
 
-## Windows Installation
+## Installation (Windows)
 * 1 - Navigate to C:\Users\User\Documents\GWToolboxpp\MACHINE-NAME\plugins
 * 2 - Place ImprovedNametags.dll into the \plugins folder
 * 3 - Load GWToolbox as usual
