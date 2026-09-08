@@ -9,7 +9,7 @@ Features
 * Profession (all 10 professions are configurable)
 * Bonus: "Escape to Embark Beach", attempts to save you from death when you meet a certain health threshold by sending you to Embark Beach
 https://youtu.be/RxdatNzI-IQ
-<img width="522" height="540" alt="nametags" src="https://github.com/user-attachments/assets/da2d6095-5745-49a1-b4f4-911614d9b37c" />
+<img width="456" height="542" alt="improvednametags" src="https://github.com/user-attachments/assets/576ffd4b-2dab-48c3-abad-ad74ac8d3ab7" />
 
 ## Notes
 GWToolbox 8.33 is currently bugged, there is a planned update that fixes nametags overriding colors, until then color players by profession has slight issues 
